@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import Reducer from './index'
 
-describe('ExampleComponent', () => {
+describe('Reducer', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Reducer).toBeTruthy()
   })
 })
